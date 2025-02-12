@@ -1,0 +1,4 @@
+data/
+*.pt
+*.zip
+image_caption\resnet101_attention_cycle5/
